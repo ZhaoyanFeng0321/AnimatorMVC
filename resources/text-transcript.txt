@@ -1,0 +1,40 @@
+Speed: 1 tick(s) / second
+
+Shapes:
+Name: disk1
+Type: Rectangle
+Reference: (190.0, 180.0), Width: 20.0, Height: 30.0, Color: (0, 49, 90)
+Appears at t=1.0s, disappears at t=302.0s
+Name: disk2
+Type: Rectangle
+Reference: (167.0, 210.0), Width: 65.0, Height: 30.0, Color: (6, 247, 41)
+Appears at t=1.0s, disappears at t=302.0s
+Name: disk3
+Type: Rectangle
+Reference: (145.0, 240.0), Width: 110.0, Height: 30.0, Color: (11, 45, 175)
+Appears at t=1.0s, disappears at t=302.0s
+
+Shape disk1 move from (190.0, 180.0) to (190.0, 50.0), from t=25.0s to t=35.0s
+Shape disk1 move from (190.0, 50.0) to (490.0, 50.0), from t=36.0s to t=46.0s
+Shape disk1 move from (490.0, 50.0) to (490.0, 240.0), from t=47.0s to t=57.0s
+Shape disk2 move from (167.0, 210.0) to (167.0, 50.0), from t=57.0s to t=67.0s
+Shape disk2 move from (167.0, 50.0) to (317.0, 50.0), from t=68.0s to t=78.0s
+Shape disk2 move from (317.0, 50.0) to (317.0, 240.0), from t=79.0s to t=89.0s
+Shape disk1 move from (490.0, 240.0) to (490.0, 50.0), from t=89.0s to t=99.0s
+Shape disk1 move from (490.0, 50.0) to (340.0, 50.0), from t=100.0s to t=110.0s
+Shape disk1 move from (340.0, 50.0) to (340.0, 210.0), from t=111.0s to t=121.0s
+Shape disk3 move from (145.0, 240.0) to (145.0, 50.0), from t=121.0s to t=131.0s
+Shape disk3 move from (145.0, 50.0) to (445.0, 50.0), from t=132.0s to t=142.0s
+Shape disk3 move from (445.0, 50.0) to (445.0, 240.0), from t=143.0s to t=153.0s
+Shape disk3 changes color from (11, 45, 175) to (0, 255, 0), from t=153.0s to t=161.0s
+Shape disk1 move from (340.0, 210.0) to (340.0, 50.0), from t=153.0s to t=163.0s
+Shape disk1 move from (340.0, 50.0) to (190.0, 50.0), from t=164.0s to t=174.0s
+Shape disk1 move from (190.0, 50.0) to (190.0, 240.0), from t=175.0s to t=185.0s
+Shape disk2 move from (317.0, 240.0) to (317.0, 50.0), from t=185.0s to t=195.0s
+Shape disk2 move from (317.0, 50.0) to (467.0, 50.0), from t=196.0s to t=206.0s
+Shape disk2 move from (467.0, 50.0) to (467.0, 210.0), from t=207.0s to t=217.0s
+Shape disk2 changes color from (6, 247, 41) to (0, 255, 0), from t=217.0s to t=225.0s
+Shape disk1 move from (190.0, 240.0) to (190.0, 50.0), from t=217.0s to t=227.0s
+Shape disk1 move from (190.0, 50.0) to (490.0, 50.0), from t=228.0s to t=238.0s
+Shape disk1 move from (490.0, 50.0) to (490.0, 180.0), from t=239.0s to t=249.0s
+Shape disk1 changes color from (0, 49, 90) to (0, 255, 0), from t=249.0s to t=257.0s
